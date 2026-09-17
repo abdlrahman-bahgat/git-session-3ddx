@@ -1,2 +1,3 @@
 line1: connect-cp base
 line2: feature A
+line3: feature B
