@@ -2,3 +2,4 @@ line1: connect-cp base
 line2: feature A
 line3: feature B
 line4: feature C
+WIP: half-finished feature, do not commit yet
