@@ -3,3 +3,4 @@ line2: feature A
 line4: feature C
 WIP: half-finished feature, do not commit yet
 line-x: rebase branch work 1
+line-y: rebase branch work 2
